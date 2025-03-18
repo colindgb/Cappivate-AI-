@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+openai
+tweepy
+dropbox
+moviepy
